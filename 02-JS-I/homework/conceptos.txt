@@ -1,0 +1,13 @@
+Variables: Es un contenedor al que podemos asignarle algun nombre y un dato, para despues poder utilizar el dato almacenado en esa variable.
+
+String: Es parecido a una variable, pero en un String almacenamos texto en vez de un valor
+
+Funciones: Nos permiten realizar una acción varias veces, pero sin tener que estar escribiendo el mismo codigo una y otra vez, Utiliza
+Argumentos, que son valores que tendremos que darle al iniciar la función, Tambien, una vez que hayamos ejecutado la función podemos, utilizar
+return, que puede devolvernos solo un valor que haya estado o haya sigo generado dentro de la funcion.
+
+If: Nos permite aplicar algunas condiciones a nuestras variables, donde si devuelven un valor verdadero, se realizara una acción, y si
+devuelven un valor falso, se realizara otra acción.
+
+Valores booleanos: Nos indican si algo es cierto o falso, podemos utilizarlos en expreciones como los if, o en funciones, para poder
+desarrollar funciones donde esto sea necesario.
