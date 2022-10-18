@@ -1,0 +1,10 @@
+For: Es un bucle que necesita tres condiciones, y se repetira hasta que la segunda condicion sea falsa, o sea, que no se cumpla
+
+&&: Es un operador logico que podremos usar en los IF, funciona como un Y, por ejemplo, que el codigo funcione si un numero es mayor
+que 10 Y que tambien sea menor de 30
+
+||: Es un operador logico que podremos usar en los IF, funciona como un O, por ejemplo, que el codigo funcione si la variable es igual
+a 18 O que sea igual a 21
+
+!: Este operador, nos devolvera el valor booleano opuesto a lo que esta pasando, por ejemplo, si una condición es true, pero añadimos el !,
+se nos devolvera que es false
