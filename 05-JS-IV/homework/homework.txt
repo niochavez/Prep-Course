@@ -1,0 +1,14 @@
+Objetos: Pueden contener mucha información dentro de ellos, esta información (valores), se guarda en llaves (key) y así podemos tener mas información en
+nuestro objeto y que este mas organzizada
+
+Propiedades: Las propiedades son los valores que guardamos dentro de uestro objeto y pueden ser cualquier tipo de dato de JavaScript, desde Strigns hasta
+funciones
+
+Métodos: Nos permiten estabelcer funciones dentro de un valor, que a su vez, estara dentro de un objeto
+
+Bucle (For in): Se utiliza cuando queremos recorrer todos los valores dentro de nuestro objeto, normalmente utilizariamos solo un for, pero no es posible
+por que los objetos no tienen indice, así que utilizamos una variación (for in), que ira recorriendo cada clave y finalizara cuando haya iterado todas las
+claves
+
+Notación de puntos vs notación de corchetes: La notación con corchetes es otra manera de acceder a una propiedad de un objeto, esta notación puede usarse
+con variables, si usas una variable con corchetes, la variable debe hacer referencia a un string
