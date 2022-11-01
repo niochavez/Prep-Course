@@ -1,0 +1,2 @@
+Los arrays son variables que nos permiten almacenar todos los tipos de objetos dentro de ellas, para despues poder acceder a ellos mediante
+un indice.
