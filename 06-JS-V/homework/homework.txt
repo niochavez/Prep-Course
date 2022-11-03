@@ -1,0 +1,4 @@
+Prototype: Con un prototype podemos establecer un metodo (funcion), para poder utilizarlo varias veces dentro de esa clase sin tener que
+volver a escribirlo varias veces y así, ocupamos menos memoria.
+
+Constructor: Es un metodo que nos permite crear e inicializar un objeto a partir de una clase.
