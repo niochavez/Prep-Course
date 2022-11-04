@@ -1,0 +1,2 @@
+Un callback nos permite pasar una funcion como un argumento a otra funcion, esto hace que una funcion pueda llamar otra funcion, la funcion
+principal se ejecutara despues de que la funcion que fue pasada como argumento se complete.
